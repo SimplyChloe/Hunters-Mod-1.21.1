@@ -40,7 +40,7 @@ public class ChloesHunters {
 
 
     private void commonSetup(FMLCommonSetupEvent event) {
-        // Some common setup code
+        // Some common setup code TESTING IF THIS WORKS THE WAY I INTEND
         LOGGER.info("HELLO FROM COMMON SETUP");
 
     }
